@@ -213,3 +213,6 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+
+# wp-config así no tenemos que cambiarlo cada vez
+wp-config.php
